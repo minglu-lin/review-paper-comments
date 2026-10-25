@@ -1,0 +1,99 @@
+{
+  "format_version": 1,
+  "derived_from": "Private user-owned review records; original records are not distributed.",
+  "source_review_count": 8,
+  "templates": [
+    {
+      "language": "en",
+      "template": "assets/review-en.docx",
+      "sha256": "faaff6289e7a1acfe94adb9344aa9cc24f27e9758c5d6277ab389a41737c4d10",
+      "package_sha256": {
+        "[Content_Types].xml": "6655418fd47a035da7f02c0e9d0fbea9fd26364429f94cb84fd0d9af9c6fcaca",
+        "_rels/.rels": "c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803",
+        "word/document.xml": "bdad5c3527b7e447545f3ccbff4930f1498996663f9ffb91058ead8ef0412328",
+        "word/_rels/document.xml.rels": "4984fd80e83f7eeb9c75574e31c0c298e29ede9c9d3dd94b06f2d9f8ba657054",
+        "word/footnotes.xml": "a0af6ed04a729689567645c41ae7a44319907a01ad845e6095e985b7a7c6a7e3",
+        "word/endnotes.xml": "36d2995aa8c0e9226f47015ab7844b095c2c1000980f3fc3c942ae14c8f4b5ba",
+        "word/theme/theme1.xml": "7017cbe8b7512b56e04e6b3e3579aa862a35b6f9f31e0bf48328f6e5c074ebbd",
+        "word/settings.xml": "7da93477369e7c1a22ffe163a189429967665d172194fb2c2e66907ebc5e159f",
+        "word/numbering.xml": "cc4b4edc25e5cc1cdd49cc6c0d1deb20a5976fa3383d73573cee65b43691c05d",
+        "word/styles.xml": "147f156383357896bdb1f718f0a3f752c51529aee2d677031555aad373e309c0",
+        "word/webSettings.xml": "1aa377afb9f90560a5ebc14a85cdfd2ecdfcacd8d8a4ec0692da6d11f20d12b5",
+        "word/fontTable.xml": "46e6bb5b39b5188787a5296178235878dad76e44f07aa9bb4e9be4eb6e762e09",
+        "docProps/core.xml": "dbc94628b789696d239630c1b9bbf4fcb71f06b76038ebc0c8bf4560b6c4ca3b",
+        "docProps/app.xml": "1e89b54919ae8cd80fbb29534e72affe2dde3a506027cda4963a00dc055b366c",
+        "docProps/custom.xml": "971fe8d37a8e9a8b3883e211436164aaeb92cb66723fcdc092ee16740fcd051d"
+      },
+      "sanitized_parts": [
+        "word/document.xml",
+        "docProps/core.xml",
+        "docProps/custom.xml",
+        "docProps/app.xml"
+      ],
+      "page": {
+        "size_twips": [
+          11906,
+          16838
+        ],
+        "margins_twips": {
+          "top": 1440,
+          "bottom": 1440,
+          "left": 1800,
+          "right": 1800
+        }
+      },
+      "slots": [
+        "Comments on {{MANUSCRIPT_ID}}",
+        "{{SUMMARY}}",
+        "",
+        "{{COMMENT}}"
+      ]
+    },
+    {
+      "language": "zh",
+      "template": "assets/review-zh.docx",
+      "sha256": "aba4197678b28b731b547ed9c22a63f7131a5b6ae348e3c0e0728b2b63d64867",
+      "package_sha256": {
+        "[Content_Types].xml": "6655418fd47a035da7f02c0e9d0fbea9fd26364429f94cb84fd0d9af9c6fcaca",
+        "_rels/.rels": "c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803",
+        "word/document.xml": "2c30b7fbce2891425edbd8159f240b31e2b4f1e413b7558f010a6f1122f38980",
+        "word/_rels/document.xml.rels": "4984fd80e83f7eeb9c75574e31c0c298e29ede9c9d3dd94b06f2d9f8ba657054",
+        "word/footnotes.xml": "378e502e55e308acae875b2f9cc44fc7b811200eb32092398a3176ee26bc2139",
+        "word/endnotes.xml": "167c570538e83e96426483f71326949bb0e1b150cc35cc9069cdc38d81583a7d",
+        "word/theme/theme1.xml": "7017cbe8b7512b56e04e6b3e3579aa862a35b6f9f31e0bf48328f6e5c074ebbd",
+        "word/settings.xml": "c6f58970361391c6820869caf31f3436842bc5614d6f9685128dc4580bcb5435",
+        "word/numbering.xml": "cc4b4edc25e5cc1cdd49cc6c0d1deb20a5976fa3383d73573cee65b43691c05d",
+        "word/styles.xml": "147f156383357896bdb1f718f0a3f752c51529aee2d677031555aad373e309c0",
+        "word/webSettings.xml": "953b7da76ebec1a66f3c9a64f60cd6c2d966677c1e8ef3b98b4da24fe9da1fe6",
+        "word/fontTable.xml": "46e6bb5b39b5188787a5296178235878dad76e44f07aa9bb4e9be4eb6e762e09",
+        "docProps/core.xml": "dbc94628b789696d239630c1b9bbf4fcb71f06b76038ebc0c8bf4560b6c4ca3b",
+        "docProps/app.xml": "1e89b54919ae8cd80fbb29534e72affe2dde3a506027cda4963a00dc055b366c",
+        "docProps/custom.xml": "971fe8d37a8e9a8b3883e211436164aaeb92cb66723fcdc092ee16740fcd051d"
+      },
+      "sanitized_parts": [
+        "word/document.xml",
+        "docProps/core.xml",
+        "docProps/custom.xml",
+        "docProps/app.xml"
+      ],
+      "page": {
+        "size_twips": [
+          11906,
+          16838
+        ],
+        "margins_twips": {
+          "top": 1440,
+          "bottom": 1440,
+          "left": 1800,
+          "right": 1800
+        }
+      },
+      "slots": [
+        "Comments on {{MANUSCRIPT_ID}}",
+        "{{SUMMARY}}",
+        "",
+        "{{COMMENT}}"
+      ]
+    }
+  ]
+}

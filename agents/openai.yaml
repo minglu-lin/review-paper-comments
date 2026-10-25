@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文审稿 Comments"
+  short_description: "沿用既往审稿记录，审阅论文并生成同格式的中英文审稿意见和 Word"
+  default_prompt: "请使用 $review-paper-comments 审阅这篇论文，按我既往审稿记录的风格和格式生成 comments，并输出 Word。"
