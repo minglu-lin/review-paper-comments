@@ -9,27 +9,31 @@ Comments on <manuscript identifier>
 
 <One integrated paragraph describing the work, its merits, and the publication judgment.>
 
-1. <A specific concern, its significance, and a proportionate author action.>
+1. <An evidence-based concern, its significance, and an open question for the authors.>
 2. <Next substantive concern.>
 3. <Next concern; verified presentation issues may be grouped at the end.>
 ```
 
 中文正文同样保留英文标题 `Comments on ...`，总评后可自然写“以下为具体意见：”。不加作者称呼、邮件署名或另一个总结段。
 
+以上为新建意见的默认格式。用户指定当前版本时，沿用其标题、段落、编号方式和页面设置；语言终审不顺便重排全文。中英文的意见顺序、含义和语气应一致，页数可因语言长度而不同。
+
 ## 篇幅与段落
 
 - 8 份记录分别有 3、4、4、4、4、3、6、4 个主编号意见，共 32 条。多数为 4 条，不是固定数量要求。
-- 通常一条一个段落，较复杂问题可包含紧密关联的两个请求。气泡论文的第一条曾有子问题，这允许必要的短子项，但不应普遍展开成多层提纲。
+- 通常一条一个段落，较复杂问题可包含紧密关联的几个问题，但避免将多个独立要求塞入一条或展开成多层任务清单。
 - 总评先准确介绍研究，再肯定具体贡献，最后给出主要保留意见和修订/发表倾向。英文约 80–140 词是密度参考，不要为满足字数补空话。
 - 初审意见以物理和技术问题为主，语言润色不是主体。小问题往往放在最后一条，也可以完全没有。
 
 ## 语气
 
-原记录常用 “In this manuscript, the authors ...”, “However, ...”, “The authors should ...”, “It would be valuable to ...”, “A brief ... would help ...”。学习这些句式所表达的推理关系，不要每条都重复同一开头。
+原记录的指令式或方案式措辞仅作历史参考。当前默认以问题组织意见：先说明原文依据与尚未解决的科学问题，再问现有证据如何支持解释、不同结果如何关联或结论适用于何种范围。不必每句都是问句，也不要每条重复同一开头。
 
-温和修订：承认方法合理，指出尚需说明的假设或适用范围，并建议小规模分析。
+温和修订：准确指出尚需澄清的假设、定义或适用范围，不自动追加新分析。
 
-实质修订：先说明哪项论证不足，再解释其对机制判断、预测或可重复性的影响，提出直接能回答问题的补充。
+实质修订：说明哪项论证不足及其对机制判断、预测或可靠性的影响，提出可回应的关键问题，让作者选择解决办法。
+
+例如，对两个因素随工况同时变化的情况，可问：“What evidence distinguishes the contributions of these coupled factors?” 若写成 “Could the authors add separate control groups and repeat the calculations?”，仍是在指定方案；除非确有必要并说明理由，不作为默认写法。
 
 拒稿倾向：可以直接表达结论，但“新颖性不足”必须有可核实的比较依据，且拒稿理由应超出可轻易修复的表述缺陷。
 
